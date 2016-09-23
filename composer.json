@@ -1,0 +1,15 @@
+{
+    "name": "rbz/oni",
+    "description": "contoh library",
+    "authors": [
+        {
+            "name": "oni",
+            "email": "irhamdani@redbuzz.co.id"
+        }
+    ],
+    "autoload": {
+		"psr-4": {
+			"Redbuzz\\Karyawan\\": "src/"
+		}
+	}
+}
