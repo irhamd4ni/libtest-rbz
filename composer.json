@@ -7,6 +7,9 @@
             "email": "irhamdani@redbuzz.co.id"
         }
     ],
+    "require" : {
+    	"php": ">=5.5"
+    },ss
     "autoload": {
 		"psr-4": {
 			"Redbuzz\\Karyawan\\": "src/"
